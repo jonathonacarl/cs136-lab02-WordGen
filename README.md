@@ -1,5 +1,5 @@
 # Lab 2 - Random Writing
- * This week We will write a program with several classes. Our lab programs will analyze letter frequencies in text documents and then generate new documents based on those frequencies. Each class will implement unique functionality and together they will solve a larger problem.
+ * We will write a program with several classes. Our lab programs will analyze letter frequencies in text documents and then generate new documents based on those frequencies. Each class will implement unique functionality and together they will solve a larger problem.
 
 * Level 0 Analysis: The following algorithm is based on letter probability distributions. Imagine taking the novel Tom Sawyer and counting the frequency with which each character occurs. You’d probably find that spaces are the most common, that the character 'e' is fairly common, and that the character 'q' is rather uncommon. After completing this level 0 analysis, you’d be able to produce Tom Sawyer-esque text based on character frequencies. The idea is to randomly select each character based on the probability of it’s occurrence in the text. This random text wouldn’t have much in common with the real novel, but characters would tend to appear with the same proportions.
 
